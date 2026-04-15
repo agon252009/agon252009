@@ -2,7 +2,7 @@
 
 Engineer building agent harnesses and orchestrated LLM workflows.
 
-The work is about making LLMs *do things* reliably — multi-tool routing, intent pre-classification, MCP integration, provider-aware prompt tier routing across model sizes. Two projects in active development at [@NerdoBaggins](https://github.com/NerdoBaggins):
+Currently leading AI-assisted development research at Advanced Bionics. The work below is what I build in the open at [@NerdoBaggins](https://github.com/NerdoBaggins):
 
 - **Arcane Console** *(TypeScript / Electron)* — D&D 5e platform integrated with Claude Desktop via Model Context Protocol. Multi-tier LLM orchestrator on the Vercel AI SDK across Anthropic / OpenAI / Ollama, with deterministic intent pre-classification, prompt tier routing for compact vs. full-tier models, and 30+ unified MCP tools. Full D&D 5e game engine: registry-based derivation pipeline (100+ derived attributes), modular effect-contribution evaluation. ~4,100 tests passing.
 
